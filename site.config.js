@@ -12,9 +12,9 @@ module.exports = {
   author: 'mario ibarra',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'Offensive security blog.',
   socialImageTitle: 'drmarmar',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: '',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
